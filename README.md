@@ -49,4 +49,4 @@ which is exactly what `sync --force` could do automatically.
 
 ## Related Issue
 
-<!-- filled in after filing -->
+https://github.com/overengineeringstudio/effect-utils/issues/749
